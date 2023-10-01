@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aafaq Ahmad!</h1>
-<h3 align="center">Experienced Software Engineer and Frontend Developer 🚀 | Proficient in HTML, CSS, Bootstrap, JavaScript, React, React Native, TypeScript, Framer Motion, Redux, Firebase, MongoDB, and Mapbox 🌐 | Crafting innovative web and mobile applications to transform ideas into reality 💡 | Let's collaborate to build extraordinary digital solutions.</h3>
+<h1>Hi 👋, I'm Aafaq Ahmad!</h1>
+<h3>Experienced Software Engineer, React and React Native Developer 🚀 | Proficient in HTML, CSS, Bootstrap, JavaScript, React, React Native, TypeScript, Redux, Framer Motion, Firebase, MongoDB, and Mapbox 🌐 | Crafting innovative web and mobile applications to transform ideas into reality 💡 | Let's collaborate to build extraordinary digital solutions.</h3>
 
 - 🔭 I’m currently working on [Veply](https://veply.io/)
-
 - 👯 Also on this project [Fly Fish Finder](https://flyfishfinder.com/)
 
 - 🌱 I’m currently learning **MERN stack, API development.**
