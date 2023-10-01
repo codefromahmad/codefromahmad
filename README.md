@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Aafaq Ahmad!</h1>
 <h3 style={color:'red'}>Experienced Software Engineer, React and React Native Developer 🚀 | Proficient in HTML, CSS, Bootstrap, JavaScript, React, React Native, TypeScript, Redux, Framer Motion, Firebase, MongoDB, and Mapbox 🌐 | Crafting innovative web and mobile applications to transform ideas into reality 💡 | Let's collaborate to build extraordinary digital solutions.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codefromahmad&label=Profile%20views&color=0e75b6&style=flat" alt="codefromahmad" /> </p>
+
 - 🔭 I’m currently working on [Veply](https://veply.io/)
 - 👯 Also on this project [Fly Fish Finder](https://flyfishfinder.com/)
 
