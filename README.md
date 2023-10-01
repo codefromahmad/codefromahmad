@@ -3,7 +3,7 @@ Hi 👋, I'm Aafaq Ahmad!
 
 ### Experienced Software Engineer and Frontend Developer 🚀 | Proficient in HTML, CSS, Bootstrap, JavaScript, React, React Native, TypeScript, Framer Motion, Redux, Firebase, MongoDB, and Mapbox 🌐 | Crafting innovative web and mobile applications to transform ideas into reality 💡 | Let's collaborate to build extraordinary digital solutions.
 
-\- 🔭 I’m currently working on \[Veply\](https://veply.io/) - 🌱 I’m currently learning \*\*MERN stack, API development.\*\* - 👯 Also on this project \[Fly Fish Finder\](https://flyfishfinder.com/) - 🤝 I've just finished \[FT9ja\](https://www.ft9ja.com/) - 💬 Ask me about \*\*react, react native, redux, firebase\*\* - 📫 How to reach me \*\*malikafaq788@gmail.com\*\* - 📄 Know about my experiences \[https://bit.ly/3rCfDVh\](https://bit.ly/3rCfDVh) - ⚡ Fun fact \*\*I've written so much code that I once dreamed in binary! 01001000 01000101 01001100 01001100 01001111 😄👾\*\*
+\- 🔭 I’m currently working on \[Veply\](https://veply.io/) - 🌱 I’m currently learning \*\*MERN stack, API development.\*\* - 👯 Also on this project \[Fly Fish Finder\](https://flyfishfinder.com/) - 🤝 I've just finished \[FT9ja\](https://www.ft9ja.com/) - 💬 Ask me about \*\*react, react native, redux, firebase\*\* - 📫 How to reach me \*\*malikafaq788@gmail.com\*\* - 📄 Know about my experiences \[https://bit.ly/3rCfDVh\](https://bit.ly/3rCfDVh)\*\*
 
 ### Connect with me:
 
