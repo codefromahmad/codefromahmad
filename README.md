@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Aafaq Ahmad!</h1>
+<h1>Hi 👋, I'm Ahmad!</h1>
 <p align="left" dir="auto">
   <em>
   Experienced Software Engineer, React and React Native Developer 🚀 | Proficient in HTML, CSS, Bootstrap, JavaScript, React, React Native, TypeScript, Redux, Framer Motion, Firebase, MongoDB, and Mapbox 🌐 | Crafting innovative web and mobile applications to transform ideas into reality 💡 | Let's collaborate to build extraordinary digital solutions.
